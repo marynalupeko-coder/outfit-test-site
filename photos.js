@@ -33,12 +33,10 @@ window.OUTFIT_PHOTOS={
     "https://marynalupeko-coder.github.io/outfit-photos/8e763ce3-114f-4e2f-bcb2-5226d140d027.png"
   ],
   "Product_62c27cc7-33da-4898-964c-5e9f46f68760": [
-    "images/Product_62c27cc7-33da-4898-964c-5e9f46f68760-original-mw8caxtd-1.jpg",
-    "images/Product_62c27cc7-33da-4898-964c-5e9f46f68760-2.webp",
-    "images/Product_62c27cc7-33da-4898-964c-5e9f46f68760-3.webp",
-    "images/Product_62c27cc7-33da-4898-964c-5e9f46f68760-4.webp"
-  ],
-  "Product_7142cdf1-9510-4b3f-9108-b9333a556825": [
+    "https://marynalupeko-coder.github.io/outfit-photos/Product_62c27cc7-33da-4898-964c-5e9f46f68760.webp",
+    "https://marynalupeko-coder.github.io/outfit-photos/Product_62c27cc7-33da-4898-964c-5e9f46f68760-2.webp",
+    "https://marynalupeko-coder.github.io/outfit-photos/Product_62c27cc7-33da-4898-964c-5e9f46f68760-3.webp"
+  ],  "Product_7142cdf1-9510-4b3f-9108-b9333a556825": [
     "images/Product_7142cdf1-9510-4b3f-9108-b9333a556825-original-mw8d8agg-1.jpg"
   ],
   "Product_89bc53ac-209a-4ea9-b1c8-7c1d4ee1673c": [
